@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Proposta.Api\\Proposta.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DataBase.Api\\DataBase.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Contratacao.Api\\Contratacao.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

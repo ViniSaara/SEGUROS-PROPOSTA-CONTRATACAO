@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Contratacao.Api.Controllers.ContratacaoController",
+    "Method": "AdicionarContratacao",
+    "RelativePath": "Contratacao/AdicionarContratacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProposta",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Contratacao.Api.Controllers.ContratacaoController",
+    "Method": "AlterarNome",
+    "RelativePath": "Contratacao/AlterarNome",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contratacaoDto",
+        "Type": "Contratacao.Domain.Dto.ContratacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Contratacao.Api.Controllers.ContratacaoController",
+    "Method": "BuscarContratacao",
+    "RelativePath": "Contratacao/BuscarContratacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Contratacao.Api.Controllers.ContratacaoController",
+    "Method": "BuscarListaContratacaos",
+    "RelativePath": "Contratacao/BuscarListaContratacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Contratacao.Api.Controllers.ContratacaoController",
+    "Method": "DeletarContratacao",
+    "RelativePath": "Contratacao/DeletarContratacao",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

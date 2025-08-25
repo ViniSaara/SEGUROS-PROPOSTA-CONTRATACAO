@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rwrWJ4PEfnUHRWWF5tKyKMTj+IHby6Idolov8Esnc3M=",
+  "Source": "DataBase.Api",
+  "BasePath": "_content/DataBase.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

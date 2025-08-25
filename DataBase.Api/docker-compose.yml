@@ -1,0 +1,29 @@
+﻿version: "3.9"
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql-seguro
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: seguros
+    ports:
+      - "3307:3306"
+    volumes:
+      - volume_db_seguro:/var/lib/mysql
+      - ./init-scripts:/docker-entrypoint-initdb.d  # pasta local com scripts .sql
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq-seguro
+    restart: always
+    ports:
+      - "15674:15672"   # painel de administração (http://localhost:15674)
+      - "5674:5672"     # porta de conexão das aplicações
+    volumes:
+      - volume_rabbitmq_seguro:/var/lib/rabbitmq
+
+volumes:
+  volume_db_seguro:
+  volume_rabbitmq_seguro:

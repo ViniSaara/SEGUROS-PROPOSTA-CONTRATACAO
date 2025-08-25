@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "AdicionarProposta",
+    "RelativePath": "Proposta/AdicionarProposta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propostaDto",
+        "Type": "Proposta.Domain.Dto.PropostaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "AlterarNome",
+    "RelativePath": "Proposta/AlterarNome",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propostaDto",
+        "Type": "Proposta.Domain.Dto.PropostaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "AlterarStatus",
+    "RelativePath": "Proposta/AlterarStatus",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propostaDto",
+        "Type": "Proposta.Domain.Dto.PropostaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "BuscarListaPropostas",
+    "RelativePath": "Proposta/BuscarListaPropostas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "BuscarProposta",
+    "RelativePath": "Proposta/BuscarProposta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proposta.Api.Controllers.PropostaController",
+    "Method": "DeletarProposta",
+    "RelativePath": "Proposta/DeletarProposta",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
