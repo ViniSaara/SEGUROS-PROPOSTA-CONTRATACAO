@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61SB4kARsIY=",
+  "dgSpecHash": "M/CmK56ihoc=",
   "success": true,
-  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Contratacao.Application\\Contratacao.Application.csproj",
+  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Contratacao.Application\\Contratacao.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",

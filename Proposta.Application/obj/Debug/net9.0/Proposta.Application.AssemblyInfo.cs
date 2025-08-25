@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proposta.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b662aeae2e81deb0fe0a3a692a83d0eacebcb9c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36fc624c92f6ea261f24adf7a0ce2210525773be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proposta.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proposta.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

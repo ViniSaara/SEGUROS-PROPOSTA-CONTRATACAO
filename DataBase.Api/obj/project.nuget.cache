@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gNLgDV8ZhBk=",
+  "dgSpecHash": "+NkPwZD29Ts=",
   "success": true,
-  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\DataBase.Api\\DataBase.Api.csproj",
+  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\DataBase.Api\\DataBase.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

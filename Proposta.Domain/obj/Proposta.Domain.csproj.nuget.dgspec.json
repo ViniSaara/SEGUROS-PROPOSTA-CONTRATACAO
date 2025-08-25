@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Proposta.Domain\\Proposta.Domain.csproj": {}
+    "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Proposta.Domain\\Proposta.Domain.csproj": {}
   },
   "projects": {
-    "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Proposta.Domain\\Proposta.Domain.csproj": {
+    "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Proposta.Domain\\Proposta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Proposta.Domain\\Proposta.Domain.csproj",
+        "projectUniqueName": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Proposta.Domain\\Proposta.Domain.csproj",
         "projectName": "Proposta.Domain",
-        "projectPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Proposta.Domain\\Proposta.Domain.csproj",
+        "projectPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Proposta.Domain\\Proposta.Domain.csproj",
         "packagesPath": "C:\\Users\\Vini\\.nuget\\packages\\",
-        "outputPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Proposta.Domain\\obj\\",
+        "outputPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Proposta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

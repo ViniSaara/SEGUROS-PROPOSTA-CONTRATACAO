@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Contratacao.Domain\\Contratacao.Domain.csproj",
+      "projectUniqueName": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Contratacao.Domain\\Contratacao.Domain.csproj",
       "projectName": "Contratacao.Domain",
-      "projectPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Contratacao.Domain\\Contratacao.Domain.csproj",
+      "projectPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Contratacao.Domain\\Contratacao.Domain.csproj",
       "packagesPath": "C:\\Users\\Vini\\.nuget\\packages\\",
-      "outputPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Contratacao.Domain\\obj\\",
+      "outputPath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Contratacao.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "scfFEzFJhQc=",
+  "dgSpecHash": "8N0P6iakbDQ=",
   "success": true,
-  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\SEGUROS\\Contratacao.Api\\Contratacao.Api.csproj",
+  "projectFilePath": "D:\\CURSOS\\TI\\PORTIFOLIO\\SEGUROS-PROPOSTA-CONTRATACAO\\Contratacao.Api\\Contratacao.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
