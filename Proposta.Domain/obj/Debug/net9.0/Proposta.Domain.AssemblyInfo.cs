@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proposta.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8336bb70cbc89bd2355f5ebe8efd200bda7e62f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391fcbc24f6a0e09a0a98317e29a2446cdeb9c97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proposta.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proposta.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
