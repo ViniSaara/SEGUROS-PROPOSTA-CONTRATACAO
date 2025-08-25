@@ -21,3 +21,15 @@ D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Proposta.Domain\obj
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Proposta.Domain\obj\Debug\net9.0\refint\Proposta.Domain.dll
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.pdb
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Proposta.Domain\obj\Debug\net9.0\ref\Proposta.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\bin\Debug\net9.0\Proposta.Domain.deps.json
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\bin\Debug\net9.0\Proposta.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\bin\Debug\net9.0\Proposta.Domain.pdb
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.AssemblyInfoInputs.cache
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.AssemblyInfo.cs
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.csproj.CoreCompileInputs.cache
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.sourcelink.json
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\refint\Proposta.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\Proposta.Domain.pdb
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Proposta.Domain\obj\Debug\net9.0\ref\Proposta.Domain.dll

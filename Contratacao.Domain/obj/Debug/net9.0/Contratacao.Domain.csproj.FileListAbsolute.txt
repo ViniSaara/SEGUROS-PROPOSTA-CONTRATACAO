@@ -21,3 +21,15 @@ D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Contratacao.Domain\
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Contratacao.Domain\obj\Debug\net9.0\refint\Contratacao.Domain.dll
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.pdb
 D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\SEGUROS\Contratacao.Domain\obj\Debug\net9.0\ref\Contratacao.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\bin\Debug\net9.0\Contratacao.Domain.deps.json
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\bin\Debug\net9.0\Contratacao.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\bin\Debug\net9.0\Contratacao.Domain.pdb
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.AssemblyInfoInputs.cache
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.AssemblyInfo.cs
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.csproj.CoreCompileInputs.cache
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.sourcelink.json
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\refint\Contratacao.Domain.dll
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\Contratacao.Domain.pdb
+D:\CURSOS\TI\PORTIFOLIO\SEGUROS-PROPOSTA-CONTRATACAO\Contratacao.Domain\obj\Debug\net9.0\ref\Contratacao.Domain.dll
